@@ -12,4 +12,3 @@ Cara melakukan cek DR:
 4. cari foto retina yang akan di deteksi
 5. klik ok
 6. tunggu beberapa saat file akan menampilkan hasil dari preprocessing data dan kemudian menampilkan hasil prediksi di bagian bawah
-7. 
