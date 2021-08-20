@@ -12,3 +12,9 @@ Cara melakukan cek DR:
 4. cari foto retina yang akan di deteksi
 5. klik ok
 6. tunggu beberapa saat file akan menampilkan hasil dari preprocessing data dan kemudian menampilkan hasil prediksi di bagian bawah
+
+
+Proses Preprocessing gambar pada projek ini adalah:
+1. Resize (224x224)
+2. Peningkatan kontras dengan metode CLAHE
+3. Penghilangan noise dengan gaussian filter
