@@ -1,4 +1,6 @@
 # CNN_For_DR
+Projek ini merupakan tugas akhir saya yang berjudul : KLASIFIKASI TINGKAT PENYAKIT DIABETEIC RETINOPATHY PADA CITRA RETINA FUNDUS MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK
+
 please install additional package:
 1. Tensorflow 2.5.0
 2. OpenCV 4.5.2.52	
