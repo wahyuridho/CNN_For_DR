@@ -47,7 +47,7 @@ class preprocess():
 
     def clasifikasi(self, enable, path):
         if enable:
-            filepath = 'F:/Code/train_images/c2'
+            filepath = './c2'
             model = tf.keras.models.load_model(filepath)
             model.compile(loss='categorical_crossentropy',
                               optimizer = optimizers.Adam(learning_rate=0.00001),
